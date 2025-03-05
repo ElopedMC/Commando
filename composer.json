@@ -9,7 +9,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/ElopedMC/ScoreFactory"
+      "url": "https://github.com/elopedmc/scorefactory"
     }
   ],
   "extra": {
